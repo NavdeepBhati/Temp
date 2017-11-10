@@ -6,6 +6,12 @@ public class ClassA {
 	public void name() {
 	
 		System.out.println("idhwdwihd");
+		System.out.println("idhwdwihd");
+		System.out.println("idhwdwihd");
+		System.out.println("idhwdwihd");
+		System.out.println("idhwdwihd");
+		System.out.println("idhwdwihd");
+		System.out.println("idhwdwihd");
 		
 		int a= 10;
 		System.out.println(a);

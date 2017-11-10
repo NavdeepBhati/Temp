@@ -2,7 +2,21 @@
 public class ClassB {
 
 	public int getno() {
-		// TODO Auto-generated method stub
+		System.out.println("fefefefe");
+		System.out.println("fefefefe");
+		System.out.println("fefefefe");
+		System.out.println("fefefefe");
+		System.out.println("fefefefe");
+		System.out.println("fefefefe");
+		System.out.println("fefefefe");
+		System.out.println("fefefefe");
+		System.out.println("fefefefe");
+		System.out.println("fefefefe");
+		System.out.println("fefefefe");
+		System.out.println("fefefefe");
+		System.out.println("fefefefe");
+		System.out.println("fefefefe");
+		System.out.println("fefefefe");
 		return 0;
 	}
 
