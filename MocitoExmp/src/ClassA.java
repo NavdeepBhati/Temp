@@ -3,6 +3,15 @@ public class ClassA {
 	
 	ClassB b = null;	
 
+	public void name() {
+	
+		System.out.println("idhwdwihd");
+		
+		int a= 10;
+		System.out.println(a);
+	}
+	
+	
 	public int  add() {
 		//b = new ClassB();
 		System.out.println(b.hashCode());
